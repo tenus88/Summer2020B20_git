@@ -5,5 +5,6 @@ public class ZombieAttack {
         String str = "No more zombie";
         System.out.println(str);
         System.out.println("12345");
+        System.out.println("54321");
     }
 }
