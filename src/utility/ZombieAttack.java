@@ -6,5 +6,6 @@ public class ZombieAttack {
         System.out.println(str);
         System.out.println("12345");
         System.out.println("54321");
+        //fjgkkff
     }
 }
